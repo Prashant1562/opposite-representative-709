@@ -1,0 +1,43 @@
+.mainnav{
+ 
+    display: flex;
+    padding: 0px 20px;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+  background: rgba(222, 218, 218, 0.329);
+}
+
+.mainnav>:first-child{
+    width: 40px;
+    height: 100%;
+}
+
+.mainnav>:first-child>img{
+    height: 100%;
+
+}
+
+.mainnav>:nth-child(2){
+    color: rgb(57, 64, 70);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.mainnav>:last-child{
+    display: flex;
+    gap: 50px;
+}
+
+.mainnav>:last-child button{
+    font-size: 18px;
+border-color: rgb(35, 31, 26);
+cursor: pointer;
+border-radius: 3px;
+}
+
+.mainnav>:last-child button:hover{
+color: rgb(19, 19, 18);
+background-color: rgba(75, 71, 71, 0.085);
+}
