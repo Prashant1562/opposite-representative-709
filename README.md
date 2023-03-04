@@ -1,6 +1,7 @@
 # opposite-representative-709
-#Role the dice
---> Tech Stacks
+## Roll the dice
+
+**Tech Stacks**
 
 * HTML 
 * CSS 
@@ -10,14 +11,14 @@
 * react
     
     
-* Team Members:\
-* Abdus Salam\
-* Govind Kumawat\
-* Prashant\
-* Rohit kumar malav\
+## Team Members
+* Abdus Salam
+* Govind Kumawat
+* Prashant
+* Rohit kumar malav
 
 
-#screenshots
+## Screenshots
 
 
 ![Screenshot (493)](https://user-images.githubusercontent.com/107971447/222919381-2248e301-4dff-48bf-ae1e-4cd2e83477fa.png)
