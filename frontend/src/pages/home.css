@@ -1,0 +1,29 @@
+.homeMain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    gap: 20px;
+    width: 100%;
+}
+
+.homeMain>*{
+    font-size: 20px;
+
+}
+
+.homeMain>input{
+    padding: 3px;
+    border-radius: 2px;
+    outline: none;
+}
+
+.homeMain>button{
+    padding: 5px 10px;
+border-radius: 3px;
+border: none;
+cursor: pointer;
+color: rgb(255, 255, 255);
+background-color:teal;
+}

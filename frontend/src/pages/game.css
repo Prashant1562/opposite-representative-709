@@ -1,0 +1,92 @@
+.mainRoom, .mainGame{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    gap: 20px;
+    width: 100%;
+}
+
+.mainRoom>*{
+    font-size: 20px;
+
+}
+
+.mainRoom>input{
+    padding: 3px;
+    border-radius: 2px;
+    outline: none;
+}
+
+.mainRoom>button{
+    padding: 5px 10px;
+border-radius: 3px;
+border: none;
+cursor: pointer;
+color: rgb(255, 255, 255);
+background-color:teal;
+}
+
+.workingSpace{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.beforeStart{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+.button-73 {
+    margin-top: 50px !important;
+  appearance: none;
+  background-color: #FFFFFF;
+  border-radius: 40em;
+  border-style: none;
+  box-shadow: #ADCFFF 0 -12px 6px inset;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -.24px;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.3rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  transition: all .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-73:hover {
+  background-color: #FFC229;
+  box-shadow: #FF6314 0 -6px 8px inset;
+  transform: scale(1.125);
+}
+
+.button-73:active {
+  transform: scale(1.025);
+}
+
+@media (min-width: 768px) {
+  .button-73 {
+    font-size: 1.5rem;
+    padding: .75rem 2rem;
+  }
+}
