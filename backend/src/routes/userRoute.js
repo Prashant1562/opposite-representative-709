@@ -5,7 +5,7 @@ const userRouter=express.Router()
 
 userRouter.get('/',async(req,res)=>{
     try {
-        const users=await UserModel.find()
+        const users=await UserModel.find().sort({"wins":-1})
         res.send(users)
     } catch (error) {
         res.send({message:"error",error})
