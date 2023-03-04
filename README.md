@@ -2,19 +2,19 @@
 #Role the dice
 --> Tech Stacks
 
-    <!--  HTML  -->
-    <!--  CSS  -->
-    <!--  JavaScript  -->
-    <!--  TypeScript.JS  -->
-    <!--  Socket io -->
-    <!--  react -->
+* HTML 
+* CSS 
+* JavaScript
+* TypeScript.JS
+* Socket io
+* react
     
     
---> Team Members:\
-++ Abdus Salam\
-++ Govind Kumawat\
-++ Prashant\
-++ Rohit kumar malav\
+* Team Members:\
+* Abdus Salam\
+* Govind Kumawat\
+* Prashant\
+* Rohit kumar malav\
 
 
 #screenshots
