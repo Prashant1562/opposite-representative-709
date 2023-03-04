@@ -1,5 +1,4 @@
-# opposite-representative-709
-## Roll the dice
+# Roll the dice
 
 **Tech Stacks**
 
