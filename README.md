@@ -8,12 +8,14 @@
 * TypeScript.JS
 * Socket io
 * react
+* express
+* mongoDB
     
     
 ## Team Members
 * Abdus Salam
 * Govind Kumawat
-* Prashant
+* Prashant Rao Gunjal
 * Rohit kumar malav
 
 
